@@ -25,7 +25,7 @@
 
 -   💎 현재 C, C++언어 공부중
 
-# 💻 기술 스택은?
+# 💻 기술은?
 
 <table>
   <tr>
@@ -55,23 +55,13 @@
   </tr>
 </table>
 
-# 📊 통계
+# 📊 통계는?
 
 <table>
   <tr>
     <td>
-      <a href="https://solved.ac/dev_haewon/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_haewon" alt="Solved.ac 프로필" height="160px" />
-      </a>
-    </td> 
-    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-korean&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="350px" style="border-radius: 5%;"/>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=dev-korean&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400px" style="border-radius: 5%;"/>
     </td>
