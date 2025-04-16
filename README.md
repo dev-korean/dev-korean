@@ -65,8 +65,8 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=dev-korean&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400px" style="border-radius: 5%;"/>
     </td>
-    <td>
+<!--     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-korean&theme=monokai&hide_border=true" width="400px" style="border-radius: 5%;"/>
-    </td>
+    </td> -->
   </tr>
 </table>
